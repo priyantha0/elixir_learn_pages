@@ -33,6 +33,6 @@ fn_add.(1, 4)
 ```
 
 #### notes for this section
-all above methods are to create anonymous functions in intractive shell
-fn_add is not the function name but it just a variable that store the anonymous function
-anonymous functions could be usefule while pass functions as arguments
+- all above methods are to create anonymous functions in intractive shell
+- fn_add is not the function name but it just a variable that store the anonymous function
+- anonymous functions could be usefule while pass functions as arguments
