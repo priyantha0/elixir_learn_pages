@@ -36,3 +36,4 @@ fn_add.(1, 4)
 - all above methods are to create anonymous functions in intractive shell
 - fn_add is not the function name but it just a variable that store the anonymous function
 - anonymous functions could be usefule while pass functions as arguments
+- fn_add.(fn_mul.(2, 3), 4) is possible, Elixir always returns the last expresion. There is no return statement
